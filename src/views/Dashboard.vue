@@ -9,7 +9,7 @@
     <h1 class="ma-5 pa-5 grey--text">Professors</h1>
     <v-container class="ma-10">
       <v-layout row wrap>
-        <v-flex xs12 sm6 md4 lg3 v-for="professor in professors" :key="professor.name" class="ma-5 pa-5">
+        <v-flex xs12 sm6 md4 lg3 v-for="professor in professors" :key="professor.name">
           <v-card class="text-center ma-5 pa-5">
             <v-responsive class="pt-4">
                 <v-avatar size="100">
