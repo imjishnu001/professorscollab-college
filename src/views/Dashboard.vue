@@ -86,21 +86,3 @@ export default {
   },  
 }
 </script>
-
-<style>
-.pass{
-  border-left: 8px solid green;
-}
-.fail{
-  border-left: 8px solid red;
-}
-*{
-  margin: 0;
-  padding: 0;
-}
-body{
-  padding: 0;
-  margin: 0;
-  background-color: aqua;
-}
-</style>
