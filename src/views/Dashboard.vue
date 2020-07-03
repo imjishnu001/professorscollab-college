@@ -66,7 +66,7 @@ export default {
         {name:'Yash Gupta',experince:'3 Years',projects:{project1:'Students management system',project2:'Report analysis automation'},project:true,rank:'#43',researchPaper:true,papers:{paper1:'Analysis of cryptocurrency'},path:'/Yash.jpg'},
         {name:'Mukesh Kumar',experince:'5 Years',projects:{project1:'Students management system'},project:true,rank:'#53',researchPaper:true,papers:{paper1:'A step towards data driven world'},path:'/Mukesh.jpg'},
         {name:'Sailesh Topno',experince:'3 Years',projects:{project1:'Devops tracker'},project:true,rank:'#35',path:'/Sailesh.jpg',researchPaper:true,papers:{paper1:'Impact of unwanted server calls'}},
-        {name:'Jishnu Mohan',experince:'1 Years',projects:{project1:'Leave Tracker'},project:true,rank:'#2',researchPaper:true,papers:{paper1:'Why IOT is the next bif thing'},path:'/jishnu.jpg'},
+        {name:'Deepika Choubey',experince:'1 Years',projects:{project1:'Leave Tracker'},project:true,rank:'#2',researchPaper:true,papers:{paper1:'Why IOT is the next bif thing'},path:'/Deepika.jpg'},
         //{name:'Shubham Gupta',experince:'5 Years',projects:{project1:'Leave Tracker'},project:true,researchPaper:true,papers:{paper1:'Impact of unwanted server calls'},rank:'#5'},
       ] ,
       students:[
